@@ -78,6 +78,24 @@
 
 `기존 log4j 삭제 또는 주석처리 -> 새 것 작성`
 
+```xml
+		<!-- Servlet -->
+		<!-- https://mvnrepository.com/artifact/javax.servlet/javax.servlet-api -->
+		<dependency>
+			<groupId>javax.servlet</groupId>
+			<artifactId>javax.servlet-api</artifactId>
+			<version>3.1.0</version>
+			<scope>provided</scope>
+		</dependency>
+		<!-- <dependency>
+			<groupId>javax.servlet</groupId>
+			<artifactId>servlet-api</artifactId>
+			<version>2.5</version>
+			<scope>provided</scope>
+		</dependency> -->
+```
+`서블릿 버전 변경`
+
 <br/>
 
 - 프로젝트 페이셋
