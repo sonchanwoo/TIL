@@ -18,6 +18,24 @@
 
 <br/>
 
+![](https://images.velog.io/images/sonchanwoo/post/555db91a-869c-4810-b0a1-52a1e8aa8a8b/20220120_215638.png)
+
+- EOF
+
+<br/>
+
+![](https://images.velog.io/images/sonchanwoo/post/ef730027-5897-44d7-9fc6-a7b8dd53fff0/20220120_224222.png)
+
+- 코딩 컨벤션 (네이버 기준)
+
+1. 톱니 - import scheme - intellij IDEA code style xml - 해당 파일 선택
+
+2. ctrl + alt + L 습관화 !!
+
+<br/>
+
+<br/>
+
 ```gradle
 dependancies{
 
