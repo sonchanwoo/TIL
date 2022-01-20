@@ -8,7 +8,13 @@
 
 ![](https://images.velog.io/images/sonchanwoo/post/ab1521ff-82f0-4e48-8f09-6a42c024db74/20220119_151452.png)
 
-- dependancies
+- spring initializr의 dependancies
+
+<br/>
+
+![](https://images.velog.io/images/sonchanwoo/post/26be9a6d-93b6-49e8-b34e-47f4cc10fe96/image.png)
+
+- edit configurations의 두 항목 다 update classes and resources
 
 <br/>
 
