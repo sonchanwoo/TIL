@@ -1,21 +1,17 @@
 # 🔥 Today, I learned.
 
-🚀 Spring Web Programming
+🚀 [Spring Web Programming](https://github.com/sonchanwoo/TIL/tree/main/spring)
 
 <br/>
 
-🚀 Java 
+🚀 [Java](https://github.com/sonchanwoo/TIL/tree/main/java) 
 
 <br/>
 
-🚀 TDD
+🚀 [TDD](https://github.com/sonchanwoo/TIL/tree/main/tdd)
 
 <br/>
 
-🚀 책 뜯어 먹기
-
-- 코드로 배우는 스프링 웹 프로젝트(구멍가게코딩단)
-
-- 코드로 배우는 스프링부트 웹 프로젝트(구멍가게코딩단)
+🚀 [책 뜯어 먹기](https://github.com/sonchanwoo/TIL/tree/main/book)
 
 <br/>
