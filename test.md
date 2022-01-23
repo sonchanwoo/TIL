@@ -1,1 +1,0 @@
-![](https://images.velog.io/images/sonchanwoo/post/1e03fbea-47eb-481e-b4da-23892782460c/image.png)
