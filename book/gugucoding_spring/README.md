@@ -5,3 +5,5 @@
 2. [mybatis 기본](https://github.com/sonchanwoo/TIL/tree/main/resources/mybatis_basic.md)
 
 3. [spring-MVC의 컨트롤러](https://github.com/sonchanwoo/TIL/tree/main/resources/spring_controller_basic.md)
+
+4. [mybatis-@SelectKey, insert에서 사용하기](https://github.com/sonchanwoo/TIL/tree/main/resources/mybatis_selectkey_insert.md)
