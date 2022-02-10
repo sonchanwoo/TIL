@@ -3,3 +3,5 @@
 1. [STS 설정](https://github.com/sonchanwoo/TIL/tree/main/resources/sts_config.md)
 
 1. [REST+Ajax 댓글처리 - 1](https://github.com/sonchanwoo/TIL/blob/main/resources/rest_ajax_reply.md)
+
+1. [REST+Ajax 댓글처리 - 2](https://github.com/sonchanwoo/TIL/blob/main/resources/rest_ajax_reply_2.md)
