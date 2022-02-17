@@ -9,3 +9,5 @@
 4. [thymeleaf 기본](https://github.com/sonchanwoo/TIL/tree/main/resources/thymeleaf_basic.md)
 
 5. [간단 방명록 예제](https://github.com/sonchanwoo/TIL/tree/main/resources/springboot_guestbook.md)
+
+6. [상대경로테스트](/resources/springboot_guestbook.md)
