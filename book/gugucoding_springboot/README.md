@@ -7,3 +7,5 @@
 3. [jpa 맛보기 2](https://github.com/sonchanwoo/TIL/tree/main/resources/jpa2.md)
 
 4. [thymeleaf 기본](https://github.com/sonchanwoo/TIL/tree/main/resources/thymeleaf_basic.md)
+
+5. [간단 방명록 예제](https://github.com/sonchanwoo/TIL/tree/main/resources/springboot_guestbook.md)
